@@ -1,0 +1,31 @@
+# Banker Robot PHP @author N1ghtm4R3
+# [TELEGRAM BOT] telegram.org
+
+# Licença de uso:
+
+* Modifique o código de acordo com seu conhecimento, desde que tenha bom senso em deixar uma referencia ao criador do código base e suas funções.
+
+# Modo de instalação:
+
+* Crie um BOT no telegram e obtenha o Token de acesso, ao fazer isso, abra o arquivo index_bot.php e cole o Token na linha 30 aonde se encontra um Token de exemplo semelhante ao seu.
+
+* Hospede todos os componentes do robô em algum servidor web rodando o PHP 7.0 ou superior com ssl (https://) Recomendo um server gratuito e de ótima qualidade: https://br.000webhost.com
+
+* Logo após hospedar o robo, vá na linha 32  do arquivo index_bot.php e cole a URL do server apontando para o arquivo index_bot.php, veja o exemplo: 'https://meu-server.com/index_bot.php' para setarmos o Webhook em que o robo ira se comunicar com a api do Telegram.
+
+* Ative o Webhook, veja o exemplo na linha 469 do arquivo index_bot.php, ao fazer isso deve mostrar "Webhook ativado com sucesso! bot online"
+
+* Agora vá na interface do Telegram, inicie um chat com seu bot, digite o comando /start, se voce fez tudo corretamente o mesmo ira responder! se nao, reveja tudo novamente ou contate o desenvolvedor do bot.
+	
+# Autor e Desenvolvedor:
+N1ghtm4R3 - https://t.me/MrBanker
+Mail: n1ghtm4r3@protonmail.com
+
+# Grupos:
+https://t.me/CoderZone
+https://t.me/CardingGroup
+# Canal Principal: 
+https://t.me/PerfectCarders
+
+Made with <3 Brazil
+©2015-2017 PerfectCarders
